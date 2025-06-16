@@ -89,7 +89,7 @@ const INFO = {
 				"This is a 2 player classic game from the 90's, the tools I used are Javascript, Html and Css.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "",
+			link: "https://cosmic-beijinho-eb930c.netlify.app/",
 		},
 	],
 };
