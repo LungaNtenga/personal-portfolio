@@ -1,9 +1,13 @@
 {
-	"homepage": "https://LungaNtenga.github.io/LungaNtenga",
+	"homepage": "https://LungaNtenga.github.io/lungantenga",
 	"name": "reactfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
-	"license": "MIT",
+	"author": {
+		"name": "LungaNtenga",
+		"email": "lungac848@gmail.com",
+		"url": "https://github.com/LungaNtenga/lungantenga.git"
+	},
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
 		"@fortawesome/free-brands-svg-icons": "^6.4.0",
