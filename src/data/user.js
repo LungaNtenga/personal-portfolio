@@ -83,6 +83,14 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://lungantenga.github.io/WeatherApp/",
 		},
+		{
+			title: "Gorrilas Player Game",
+			description:
+				"This is a 2 player classic game from the 90's, the tools I used are Javascript, Html and Css.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "",
+		},
 	],
 };
 
