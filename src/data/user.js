@@ -73,7 +73,7 @@ const INFO = {
 				"This is a Javascript calculator, that I was buildingb it for Freecodecamp. The tools used are Html, Css & Javascript.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://lungantenga.github.io/JavascriptCalculator/",
 		},
 		{
 			title: "Simple Weather App",
